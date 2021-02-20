@@ -1,0 +1,29 @@
+﻿
+identifier: 
+
+title: Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos 2005-2021. Información mensual, cifras al mes de Enero.
+
+description: El Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL), es un proyecto que presenta información de la venta de vehículos ligeros en el territorio nacional, identificando tipo y segmento del vehículo. Para ello las empresas adscritas a la Asociación Mexicana de la Industria Automotriz (AMIA) entrega sus datos de manera mensual. La empresa Peugeot México, S.A. de C.V., solicito cambiar el nombre del modelo Partner HDI por Partner y la empresa Renault México, S.A. de C.V. asigno el valor del modelo Kangoo de octubre del 2020 a los modelos Kangoo y Kangoo ZE. Cabe señalar, que este proyecto es un registro administrativo al cual no se le aplica los lineamientos de políticas de cambios de cifras del INEGI.
+Cobertura geográfica: Nacional.
+
+modified: 2021-02-08
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: 
+
+keyword: "Automóviles", "Camiones ligeros", "Compacto", "Subcompacto", "De Lujo", "Deportivo", "Minivan", "SUV´s", "Pick up", "Venta de vehículos"
+
+contactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 2005-01-01-2021-01-31
+
+spatial: Estados Unidos Mexicanos
+
+accrualPeriodicity: Mensualmente
+
+distribution: https://www.inegi.org.mx/datosprimarios/iavl/
